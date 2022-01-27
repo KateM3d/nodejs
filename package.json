@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "repo for learning purposes of Node.js",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KateM3d/nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KateM3d/nodejs/issues"
+  },
+  "homepage": "https://github.com/KateM3d/nodejs#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
